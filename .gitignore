@@ -3,3 +3,4 @@ venv
 *.md
 changelist
 Sources/master_ufo
+.DS_Store
